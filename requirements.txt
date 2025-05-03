@@ -1,0 +1,10 @@
+install numpy
+install mediapipe==0.10.9
+install dtw
+install fastdtw
+install tdqm
+install opencv-python
+install tensorflow
+install sklearn
+install cvzone
+install protobuf==3.20.3
