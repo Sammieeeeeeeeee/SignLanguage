@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482614107662",
+    "project_id": "signlanguagetranslator-629d5",
+    "storage_bucket": "signlanguagetranslator-629d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482614107662:android:ff8430476003c511abe65f",
+        "android_client_info": {
+          "package_name": "com.example.slt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8jV8MJofGIixHCELVIetbx_pVCG2i44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aladin"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.107" />
+
+    <ImageView
+        android:id="@+id/f"
+        android:layout_width="68dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/f"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title" />
+
+    <ImageView
+        android:id="@+id/y"
+        android:layout_width="68dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/y"
+        app:layout_constraintStart_toEndOf="@id/f"
+        app:layout_constraintTop_toBottomOf="@id/title" />
+
+    <ImageView
+        android:layout_width="68dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/p"
+        app:layout_constraintStart_toEndOf="@id/y"
+        app:layout_constraintTop_toBottomOf="@id/title" />
+
+    <Button
+        android:id="@+id/CNNmodel"
+        android:layout_width="135dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="280dp"
+        android:backgroundTint="@color/brown"
+        android:text="Image"
+        android:textColor="@color/lightblue"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/DTWmodel"
+        android:layout_width="135dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="@color/brown"
+        android:text="Video"
+        android:textColor="@color/lightblue"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/CNNmodel" />
+
+    <Button
+        android:id="@+id/textRecognize"
+        android:layout_width="135dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="@color/brown"
+        android:text="Text"
+        android:textColor="@color/lightblue"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/DTWmodel" />
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="135dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="@color/brown"
+        android:text="Exit"
+        android:textColor="@color/lightblue"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textRecognize"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
