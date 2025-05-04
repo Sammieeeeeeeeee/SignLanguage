@@ -28,5 +28,14 @@ Users can input any English word or phrase, and the app will retrieve correspond
 1. **Emulator Compatibility**
 Use emulator: Pixel 2 API 35 to run the application.
 
+## References
+
+- The GRU Python code in this project is based on the work from the following repository:
+  [Sign Language Recognition - MediaPipe-DTW](https://github.com/gabguerin/Sign-Language-Recognition--MediaPipe-DTW/tree/master)
+
+- The CNN Python code is adapted from the following Kaggle notebook:
+  [CNN with MediaPipe for Sign Language Recognition](https://www.kaggle.com/code/mlanangafkaar/cnn-with-mediapipe-for-sign-language-recognition/notebook)
+
+
 
 
