@@ -28,6 +28,14 @@ Users can input any English word or phrase, and the app will retrieve correspond
 1. **Emulator Compatibility**
 Use emulator: Pixel 2 API 35 to run the application.
 
+## Datasets
+
+- **CNN Dataset**: [Access the CNN Dataset here](https://drive.google.com/drive/folders/1h8CXGAoSUsWgTsVwa58K-KKqddNv-BjX?usp=sharing)
+  
+- **DTW Dataset**: [Access the DTW Dataset here](https://drive.google.com/drive/folders/1J27zedBWzrXRV5TQ_qR2ZWQeMnSSX9ei?usp=sharing)
+
+- **GRU Dataset**: [Access the GRU Dataset here](https://drive.google.com/drive/folders/17G444kZ6pWQ05wJ9bF2xO2jpTGE7nZgm?usp=sharing)
+
 ## References
 
 - The GRU Python code in this project is based on the work from the following repository:
