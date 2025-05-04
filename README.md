@@ -11,6 +11,11 @@ Users can upload video showing dynamic hand gestures. The app will extracts hand
 3. **Text-to-Sign Translation**
 Users can input any English word or phrase, and the app will retrieve corresponding MSL alphabets gestures from Firebase Storage and displays them.
 
+## Model Code in Python
+1. **CNN-based Model** for static sign recognition
+2. **GRU-based Model** for dynamic sign recognition from videos
+3. **DTW-based Matching** for gesture comparison and recognition
+
 ## Install the necessary libraries
 - pip install -r requirements.txt
 
