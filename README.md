@@ -28,6 +28,16 @@ Users can input any English word or phrase, and the app will retrieve correspond
 1. **Emulator Compatibility**
 Use emulator: Pixel 2 API 35 to run the application.
 
+## Testing the Models with the Application
+
+To test the sign language recognition models with the Android application:
+
+- Use the **videos** provided in the `GRU` and `DTW` folders for testing the Video Input.
+- Use the **images** provided in the `CNN` folder for testing the Image Input.
+
+These samples can be used to validate the behavior and accuracy of the respective models within the application environment.
+
+
 ## Datasets
 
 - **CNN Dataset**: [Access the CNN Dataset here](https://drive.google.com/drive/folders/1bDFKsnwbNyyveFrnrabuRmMOO3ikIx93?usp=sharing)
