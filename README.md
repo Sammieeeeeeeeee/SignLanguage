@@ -30,11 +30,11 @@ Use emulator: Pixel 2 API 35 to run the application.
 
 ## Datasets
 
-- **CNN Dataset**: [Access the CNN Dataset here](https://drive.google.com/drive/folders/1h8CXGAoSUsWgTsVwa58K-KKqddNv-BjX?usp=sharing)
+- **CNN Dataset**: [Access the CNN Dataset here](https://drive.google.com/drive/folders/1bDFKsnwbNyyveFrnrabuRmMOO3ikIx93?usp=sharing)
   
-- **DTW Dataset**: [Access the DTW Dataset here](https://drive.google.com/drive/folders/1J27zedBWzrXRV5TQ_qR2ZWQeMnSSX9ei?usp=sharing)
+- **DTW Dataset**: [Access the DTW Dataset here](https://drive.google.com/drive/folders/1WH-gdkaYAcMegYFwvTkFokYEY3rg4W4H?usp=sharing)
 
-- **GRU Dataset**: [Access the GRU Dataset here](https://drive.google.com/drive/folders/17G444kZ6pWQ05wJ9bF2xO2jpTGE7nZgm?usp=sharing)
+- **GRU Dataset**: [Access the GRU Dataset here](https://drive.google.com/drive/folders/1IA_les7aDuGbBYg0l3Zx9FGZl0QyMPME?usp=sharing)
 
 ## References
 
